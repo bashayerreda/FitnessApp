@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">FitnessApp</string>
+    <string name="google_maps_key">AIzaSyDrKiUEv9y6P04n7OgOomIswsTov8NLqgg </string>
+    <string-array name="filter_options">
+        <item>Date</item>
+        <item>Running Time</item>
+        <item>Distance</item>
+        <item>Average Speed</item>
+        <item>Calories Burned</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="your_weight">your weight</string>
+    <string name="your_name">your name</string>
+    <string name="kg">kg</string>
+    <string name="Continue">Continue</string>
+    <string name="Start">start</string>
+    <string name="Finish_run">Finish Run</string>
+    <string name="Total_Distance">Total Distance</string>
+    <string name="Total_Time">Total Time</string>
+    <string name="Total_Calories_Burned">Total Calories Burned</string>
+    <string name="Average_Speed">Average Speed</string>
+    <string name="Apply_Changes">Apply Changes</string>
+    <string name="sort_by">Sort by:</string>
+
+
+</resources>

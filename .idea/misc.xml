@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/androidreview/Kotlin/FitnessApp/app/src/main/res/drawable/bottom_color.xml" value="0.161" />
+        <entry key="..\:/androidreview/Kotlin/FitnessApp/app/src/main/res/drawable/bottom_nav_selector.xml" value="0.118" />
+        <entry key="..\:/androidreview/Kotlin/FitnessApp/app/src/main/res/drawable/ic_add_black.xml" value="0.118" />
+        <entry key="..\:/androidreview/Kotlin/FitnessApp/app/src/main/res/drawable/ic_close_white.xml" value="0.145" />
+        <entry key="..\:/androidreview/Kotlin/FitnessApp/app/src/main/res/drawable/ic_directions_run_black_24dp.xml" value="0.1" />
+        <entry key="..\:/androidreview/Kotlin/FitnessApp/app/src/main/res/layout/activity_main.xml" value="0.4" />
+        <entry key="..\:/androidreview/Kotlin/FitnessApp/app/src/main/res/layout/fragment_run.xml" value="0.16" />
+        <entry key="..\:/androidreview/Kotlin/FitnessApp/app/src/main/res/layout/fragment_setting.xml" value="0.4" />
+        <entry key="..\:/androidreview/Kotlin/FitnessApp/app/src/main/res/layout/fragment_settings.xml" value="0.2" />
+        <entry key="..\:/androidreview/Kotlin/FitnessApp/app/src/main/res/layout/fragment_setup.xml" value="0.2" />
+        <entry key="..\:/androidreview/Kotlin/FitnessApp/app/src/main/res/layout/fragment_statistics.xml" value="0.264" />
+        <entry key="..\:/androidreview/Kotlin/FitnessApp/app/src/main/res/layout/fragment_tracking.xml" value="0.2" />
+        <entry key="..\:/androidreview/Kotlin/FitnessApp/app/src/main/res/layout/item_run.xml" value="0.2" />
+        <entry key="..\:/androidreview/Kotlin/FitnessApp/app/src/main/res/layout/marker_view.xml" value="0.25181159420289856" />
+        <entry key="..\:/androidreview/Kotlin/FitnessApp/app/src/main/res/menu/bottom_nav_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/androidreview/Kotlin/FitnessApp/app/src/main/res/menu/menu_main.xml" value="0.228125" />
+        <entry key="..\:/androidreview/Kotlin/FitnessApp/app/src/main/res/menu/toolbar_menu_tracking.xml" value="0.17083333333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
